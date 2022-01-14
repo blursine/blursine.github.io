@@ -38,6 +38,11 @@ text-align: center;
   width: 40px;
 }
 
+.ice-cream {
+  text-align: center;
+  width: 400px;
+}
+
 .footer {
   position: fixed;
   bottom: 0%;
