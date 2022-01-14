@@ -5,7 +5,7 @@
 .banner img {
   width: 500px;
 }
-<!--.banner {
+.banner {
   color: white;
   font-size: 30px;
   background-image: url("../images/Gay_Pride_Flag.png");
@@ -39,12 +39,11 @@ h3 {
 }
 
 .ice-cream {
-  text-align: center;
-  width: 200px;
+  width:200px;
+  margin: 0 auto;
 }
 
 .footer {
-  position: fixed;
   bottom: 0%;
   margin-top: 100px;
 }
