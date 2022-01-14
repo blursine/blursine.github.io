@@ -26,9 +26,9 @@ h3 {
   color: seagreen;
 }
 
-.list{
-font-size: 18px;
-text-align: center;
+.list {
+  font-size: 18px;
+  text-align: center;
 }
 .list li {
   list-style: circle;
@@ -40,7 +40,7 @@ text-align: center;
 
 .ice-cream {
   text-align: center;
-  width: 400px;
+  width: 200px;
 }
 
 .footer {
